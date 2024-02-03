@@ -1,0 +1,12 @@
+{
+  "name": "pp-07-manage-landing-page",
+  "version": "1.0.0",
+  "description": "## Personal Project 07 - Manage Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
