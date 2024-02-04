@@ -4,9 +4,13 @@
   "description": "## Personal Project 07 - Manage Landing Page",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
 }
